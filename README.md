@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itheaks
+- 👋 Hi, I’m Amit @itheaks
 - 👀 I’m interested in Application Developmet mainly Flutter, Internet of Things and Machine Learning.
 - 🌱 I’m currently learning and enhancing my skills in Machine Learning and Flutter
 - 💞️ I’m looking to collaborate on Application Development.
