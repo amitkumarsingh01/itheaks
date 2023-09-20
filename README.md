@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Amit Kumar Singh @itheaks
+- 👋 Hello, I’m Amit Kumar Singh @itheaks
 - 👀 I’m interested in Application Developmet mainly Flutter, Internet of Things and ML
 - 🌱 I’m currently learning and enhancing my skills in Machine Learning and Flutter
 - 💞️ I’m looking to collaborate on Application Development mainly using flutter
