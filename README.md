@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on Application Development mainly using flutter
 - 📫 How to reach me via LinkedIn https://www.linkedin.com/in/itheaks/
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+
 
 <!---
 itheaks/itheaks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
