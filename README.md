@@ -51,7 +51,7 @@ I joined GitHub on [YOUR JOIN DATE](https://github.com/itheaks).
 
 ### GitHub Tropies 
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh)
 
 ---
 
