@@ -43,12 +43,6 @@ I'm on a streak! I've been committing to GitHub consistently.
 
 ---
 
-### Joined GitHub on 🎉
-
-I joined GitHub on [YOUR JOIN DATE](https://github.com/itheaks).
-
----
-
 ### GitHub Tropies 
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=itheaks&theme=juicyfresh)
