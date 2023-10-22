@@ -9,7 +9,7 @@
 
 💼 I'm open to collaboration on Flutter-based application development projects.
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/itheaks/).
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/itheaks/)
 
 ---
 
