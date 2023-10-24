@@ -16,38 +16,36 @@
 
 <h2 align="center">Tech Stack 🚀</h2>
 
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 20px; border: 1px solid #e1e4e8; border-radius: 8px; background-color: #f6f8fa;">
-  <h2>My Tech Stack 🚀</h2>
-  <ul style="list-style: none; padding: 0; text-align: center;">
-    <li style="margin: 10px 0;">
-      <img src="https://img.icons8.com/color/24/000000/python.png" width="16" height="16"> <strong>Python</strong>, 
-      <img src="https://img.icons8.com/color/24/000000/dart.png" width="16" height="16"> <strong>Dart</strong>, 
-      <img src="https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png" width="16" height="16"> <strong>Java</strong>, 
-      <img src="https://img.icons8.com/color/24/000000/javascript.png" width="16" height="16"> <strong>JavaScript</strong>
+<div>
+  <ul>
+    <li>🐍 <strong>Programming Languages</strong>: 
+      <img src="https://img.icons8.com/color/24/000000/python.png" width="16" height="16"> Python, 
+      <img src="https://img.icons8.com/color/24/000000/dart.png" width="16" height="16"> Dart, 
+      <img src="https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png" width="16" height="16"> Java, 
+      <img src="https://img.icons8.com/color/24/000000/javascript.png" width="16" height="16"> JavaScript
     </li>
-    <li style="margin: 10px 0;">
-      <img src="https://img.icons8.com/color/24/000000/flutter.png" width="16" height="16"> <strong>Flutter</strong>, 
-      <img src="https://img.icons8.com/color/24/000000/android-os.png" width="16" height="16"> <strong>Android Studio</strong>, 
-      <img src="https://img.icons8.com/color/24/000000/html-5.png" width="16" height="16"> <strong>HTML</strong>, 
-      <img src="https://img.icons8.com/color/24/000000/css.png" width="16" height="16"> <strong>CSS</strong>, 
-      <img src="https://img.icons8.com/color/24/000000/bootstrap.png" width="16" height="16"> <strong>Bootstrap</strong>
+    <li>📱 <strong>Frameworks</strong>: 
+      <img src="https://img.icons8.com/color/24/000000/flutter.png" width="16" height="16"> Flutter, 
+      <img src="https://img.icons8.com/color/24/000000/android-os.png" width="16" height="16"> Android Studio, 
+      <img src="https://img.icons8.com/color/24/000000/html-5.png" width="16" height="16"> HTML, 
+      <img src="https://img.icons8.com/color/24/000000/css.png" width="16" height="16"> CSS, 
+      <img src="https://img.icons8.com/color/24/000000/bootstrap.png" width="16" height="16"> Bootstrap
     </li>
-    <li style="margin: 10px 0;">
-      <img src="https://img.icons8.com/color/24/000000/firebase.png" width="16" height="16"> <strong>Firebase</strong>, 
-      <img src="https://img.icons8.com/color/24/000000/mysql.png" width="16" height="16"> <strong>MySQL</strong>, 
-      <img src="https://img.icons8.com/color/24/000000/mongodb.png" width="16" height="16"> <strong>MongoDB</strong>
+    <li>🏦 <strong>Databases</strong>: 
+      <img src="https://img.icons8.com/color/24/000000/firebase.png" width="16" height="16"> Firebase, 
+      <img src="https://img.icons8.com/color/24/000000/mysql.png" width="16" height="16"> MySQL, 
+      <img src="https://img.icons8.com/color/24/000000/mongodb.png" width="16" height="16"> MongoDB
     </li>
-    <li style="margin: 10px 0;">
-      <img src="https://img.icons8.com/color/24/000000/git.png" width="16" height="16"> <strong>Git</strong>, 
-      <img src="https://img.icons8.com/ios/24/000000/github.png" width="16" height="16"> <strong>GitHub</strong>
+    <li>🔗 <strong>Version Control</strong>: 
+      <img src="https://img.icons8.com/color/24/000000/git.png" width="16" height="16"> Git, 
+      <img src="https://img.icons8.com/ios/24/000000/github.png" width="16" height="16"> GitHub
     </li>
-    <li style="margin: 10px 0;">
-      <img src="https://img.icons8.com/color/24/000000/machine-learning.png" width="16" height="16"> <strong>Machine Learning</strong>, 
-      <img src="https://img.icons8.com/color/24/000000/camera.png" width="16" height="16"> <strong>Computer Vision</strong>
+    <li>🧠 <strong>Interests</strong>: 
+      <img src="https://img.icons8.com/color/24/000000/machine-learning.png" width="16" height="16"> Machine Learning, 
+      <img src="https://img.icons8.com/color/24/000000/camera.png" width="16" height="16"> Computer Vision
     </li>
   </ul>
 </div>
-
 
 ---
 
