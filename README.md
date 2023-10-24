@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://metrics.lecoq.io/itheaks?template=classic&isocalendar=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FCalcutta&config.twemoji=true&config.octicon=true" width="100%">
 </div>
-
+![Metrics](https://metrics.lecoq.io/itheaks?template=classic&isocalendar=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FCalcutta&config.twemoji=true&config.octicon=true)
 <h1 >Hi there, I'm Amit Kumar Singh 👋</h1>
 
 <p >👀 I'm passionate about Application Development, mainly focusing on Flutter, Internet of Things, and Machine Learning.</p>
