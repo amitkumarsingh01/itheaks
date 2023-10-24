@@ -43,6 +43,8 @@ I'm on a streak! I've been committing to GitHub consistently.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itheaks&theme=dark)
 
+[![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itheaks&theme=radical&hide_border=true)
+
 ---
 
 ### GitHub Tropies 
