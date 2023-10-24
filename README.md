@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://metrics.lecoq.io/itheaks?template=classic&isocalendar=1&projects=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&projects=false&projects.limit=4&projects.descriptions=false&config.timezone=Asia%2FCalcutta&config.twemoji=true&config.octicon=true" width="100%">
+  <img src="https://metrics.lecoq.io/itheaks?template=classic&isocalendar=1&projects=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FCalcutta&config.twemoji=true&config.octicon=true" width="100%">
 </div>
 
-<h1 align="center">Hi there, I'm Amit Kumar Singh 👋</h1>
+<h1 >Hi there, I'm Amit Kumar Singh 👋</h1>
 
-<p align="center">👀 I'm passionate about Application Development, mainly focusing on Flutter, Internet of Things, and Machine Learning.</p>
+<p >👀 I'm passionate about Application Development, mainly focusing on Flutter, Internet of Things, and Machine Learning.</p>
 
-<p align="center">🌱 I'm currently honing my skills in Machine Learning and Flutter to build innovative applications.</p>
+<p >🌱 I'm currently honing my skills in Machine Learning and Flutter to build innovative applications.</p>
 
-<p align="center">💼 I'm open to collaboration on Flutter-based application development projects.</p>
+<p >💼 I'm open to collaboration on Flutter-based application development projects.</p>
 
-<p align="center">📫 Connect with me on <a href="https://www.linkedin.com/in/itheaks/">LinkedIn</a>.</p>
+<p >📫 Connect with me on <a href="https://www.linkedin.com/in/itheaks/">LinkedIn</a>.</p>
 
 <h2 align="center">Tech Stack 🚀</h2>
 
@@ -49,6 +49,7 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itheaks&theme=dark" width="100%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itheaks&theme=radical&hide_border=true" width="100%">
 </div>
 
 <h2 align="center">GitHub Trophies 🏆</h2>
