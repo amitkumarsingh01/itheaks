@@ -53,6 +53,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itheaks&show_icons=true&theme=dark" width="100%">
+  <img src="https://[github-readme-stats.vercel.app/api?username=itheaks&show_icons=true](https://activity-graph.herokuapp.com/graph?username=YOUR_PROFILE_USERNAMEl&theme=react-dark&hide_border=true&custom_title=Activity%20Graph)&theme=dark" width="100%">
+  <img src="[https://github-readme-stats.vercel.app/api?username=itheaks&show_icons=true](https://github-readme-activity-graph.vercel.app/graph?username=itheaks&bg_color=000000&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)&theme=dark" width="100%">
 </div>
 
 ---
