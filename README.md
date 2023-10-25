@@ -56,9 +56,35 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=itheaks&theme=react-dark&hide_border=true&custom_title=Activity%20Graph&theme=dark" width="100%">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=itheaks&bg_color=000000&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" width="100%">
 </div>
-
 ---
 
+<div style="display: flex; justify-content: space-around;">
+  <div style="width: 50%;">
+    <h2 align="center">Top Languages by Commit 🔝</h2>
+    <div align="center">
+      <p>Here are the programming languages I use most frequently in my GitHub projects:</p>
+    </div>
+    <div align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itheaks&layout=compact&theme=dark" width="100%">
+    </div>
+  </div>
+  
+  <div style="width: 50%;">
+    <h2 align="center">GitHub Contribution Streak 🔥</h2>
+    <div align="center">
+      <p>I'm on a streak! I've been committing to GitHub consistently.</p>
+    </div>
+    <div align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=itheaks&theme=dark" width="100%">
+    </div>
+  </div>
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itheaks&theme=dark&hide_border=true" width="100%">
+</div>
+
+---
+<!--
 <h2 align="center">Top Languages by Commit 🔝</h2>
 
 <div align="center">
@@ -81,7 +107,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itheaks&theme=dark" width="100%">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itheaks&theme=dark&hide_border=true" width="100%">
 </div>
-
+-->
 ---
 
 <h2 align="center">GitHub Trophies 🏆</h2>
