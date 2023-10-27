@@ -19,40 +19,6 @@
 <div>
   <ul>
     <li>🐍 <strong>Programming Languages</strong>: 
-      <img src="https://img.shields.io/badge/Python?style=for-the-badge&logo=python&logoColor=F7DF1E"> Python, 
-      <img src="https://img.shields.io/badge/Dart?style=for-the-badge&logo=dart&logoColor=F7DF1E"> Dart, 
-      <img src="https://img.shields.io/badge/Java?style=for-the-badge&logo=java&logoColor=F7DF1E"> Java, 
-      <img src="https://img.shields.io/badge/JavaScript?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> JavaScript,
-      <img src="https://img.shields.io/badge/Dart-Flutter-0175C2?style=for-the-badge&logo=flutter&logoColor=ffffff">
-    </li>
-    <li>📱 <strong>Frameworks</strong>: 
-      <img src="https://img.shields.io/badge/Flutter?style=for-the-badge&logo=flutter&logoColor=0175C2"> Flutter, 
-      <img src="https://img.shields.io/badge/Android%20Studio?style=for-the-badge&logo=android&logoColor=3DDC84"> Android Studio, 
-      <img src="https://img.shields.io/badge/HTML5?style=for-the-badge&logo=html5&logoColor=E34F26"> HTML, 
-      <img src="https://img.shields.io/badge/CSS?style=for-the-badge&logo=css3&logoColor=1572B6"> CSS, 
-      <img src="https://img.shields.io/badge/Bootstrap?style=for-the-badge&logo=bootstrap&logoColor=563D7C"> Bootstrap
-    </li>
-    <li>🏦 <strong>Databases</strong>: 
-      <img src="https://img.shields.io/badge/Firebase?style=for-the-badge&logo=firebase&logoColor=FFCA28"> Firebase, 
-      <img src="https://img.shields.io/badge/MySQL?style=for-the-badge&logo=mysql&logoColor=4479A1"> MySQL, 
-      <img src="https://img.shields.io/badge/MongoDB?style=for-the-badge&logo=mongodb&logoColor=47A248"> MongoDB
-    </li>
-    <li>🔗 <strong>Version Control</strong>: 
-      <img src="https://img.shields.io/badge/Git?style=for-the-badge&logo=git&logoColor=F05032"> Git, 
-      <img src="https://img.shields.io/badge/GitHub?style=for-the-badge&logo=github&logoColor=181717"> GitHub
-    </li>
-    <li>🧠 <strong>Interests</strong>: 
-      <img src="https://img.shields.io/badge/Machine%20Learning?style=for-the-badge&logo=machine-learning&logoColor=0096D6"> Machine Learning, 
-      <img src="https://img.shields.io/badge/Computer%20Vision?style=for-the-badge&logo=camera&logoColor=EA4C89"> Computer Vision
-    </li>
-  </ul>
-</div>
-
-
-<!--
-<div>
-  <ul>
-    <li>🐍 <strong>Programming Languages</strong>: 
       <img src="https://img.icons8.com/color/24/000000/python.png" width="16" height="16"> Python, 
       <img src="https://img.icons8.com/color/24/000000/dart.png" width="16" height="16"> Dart, 
       <img src="https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png" width="16" height="16"> Java, 
@@ -80,7 +46,6 @@
     </li>
   </ul>
 </div>
--->
 
 ---
 
