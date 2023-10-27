@@ -10,7 +10,9 @@
 
 <p >💼 I'm open to collaboration on Flutter-based application development projects.</p>
 
-<p >📫 Connect with me on <a href="https://www.linkedin.com/in/itheaks/">LinkedIn</a>.</p>
+<p>📫 Connect with me on <a href="https://www.linkedin.com/in/itheaks/">
+    <img src="https://img.shields.io/static/v1?label=LinkedIn&message=itheaks&color=0077B5&style=plastic&logo=linkedin&logoColor=white">
+</a>.</p>
 
 ---
 
