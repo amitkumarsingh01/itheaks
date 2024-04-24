@@ -3,7 +3,7 @@
 </div>        
    -->  
 <h1>Hi there, I'm Amit Kumar Singh 👋</h1>   
-     
+       
 ---    
 
 <p >👀 I'm passionate about Application Development, mainly focusing on Flutter, Internet of Things, and Machine Learning.</p>
