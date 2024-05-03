@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/static/v1?label=LinkedIn&message=itheaks&color=0077B5&style=plastic&logo=linkedin&logoColor=white">
 </a>.</p>
 
----  
+---    
 
 <h2 align="center">Tech Stack 🚀</h2>  
 
